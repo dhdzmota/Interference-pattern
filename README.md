@@ -7,11 +7,12 @@
 
 (See pdf for a complete visualization on Latex and the jupyther notebook for the code)
 
---
+======
 
 Quantum Mechanics was born due to the intimacy of the development of experimental research. It is now well known that the properties of atomic and sub atomic systems di?er widely from the macroscopic system’s properties. This is the case for the free particle. Classically we can think of a free particle as a body with a mass m at constant velocity, with no interaction of any potential. However, in quantum mechanics the free particle can carry any energy, nevertheless, there is no such thing as a free particle with a de?nite energy. Superpositions of wave packets lead to interference which allows localization and normalizability.
 
---
+======
+
 It is possible to obtain a general wave function from the Schrödinger equation’s solution of a free particle: 
 
 $$\Psi = \left(2\pi \sigma^2\right)^{-1/4}\frac{\sigma}{\sqrt{\sigma^2+ \frac{i\hbar t}{2m\sigma}}}e^{-\frac{(x-x_0-2i\sigma^2k_0)^2}{4\sqrt{\sigma^2+ \frac{i\hbar t}{2m\sigma}}}-\sigma^2k_0^2+ik_0x}
@@ -25,7 +26,7 @@ $$
 x\in[a,b]=[-10,10];\quad N=1000
 $$
 
---
+======
 
 By evaluating the function with the following parameters, a graph corresponding to the real and imaginary components can be created. 
 $$
